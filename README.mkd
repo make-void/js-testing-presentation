@@ -1,3 +1,7 @@
+I used this presentation tools for most of the presentation I did until now, and the ability to have just one markdown file is awesome!
+
+## Original Readme
+
 This is a set of Javascript classes that transforms a Markdown presentation into a nice HTML presentation.
 
 You can think of it as [ShowOff](https://github.com/schacon/showoff) without any fluffy feature.
